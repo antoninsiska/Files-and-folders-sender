@@ -1,4 +1,4 @@
-#Files and folders sender
+# Files and folders sender
 
 Programs for sending files or folders
 
